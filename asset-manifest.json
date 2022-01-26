@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:bkapsalis.github.io/React-Tic-Tac-Toe-with-history.git/static/css/main.22941023.css",
+    "main.js": "/git@github.com:bkapsalis.github.io/React-Tic-Tac-Toe-with-history.git/static/js/main.58425b70.js",
+    "index.html": "/git@github.com:bkapsalis.github.io/React-Tic-Tac-Toe-with-history.git/index.html",
+    "main.22941023.css.map": "/git@github.com:bkapsalis.github.io/React-Tic-Tac-Toe-with-history.git/static/css/main.22941023.css.map",
+    "main.58425b70.js.map": "/git@github.com:bkapsalis.github.io/React-Tic-Tac-Toe-with-history.git/static/js/main.58425b70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.58425b70.js"
+  ]
+}
